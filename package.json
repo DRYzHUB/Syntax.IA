@@ -1,0 +1,14 @@
+{
+  "name": "autoquest-bot",
+  "version": "1.0.0",
+  "description": "Bot para farm de missões Discord com self-bot integrado",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "self": "node run-standalone.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "discord.js": "^14.14.1"
+  }
+}
