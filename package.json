@@ -1,0 +1,13 @@
+{
+  "name": "bot-ticket-discord",
+  "version": "1.0.0",
+  "description": "Bot de Suporte e Ticket para Discord em JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
